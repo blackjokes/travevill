@@ -1,1 +1,50 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <!-- Подключаем стили Swiper -->
+  <link rel="stylesheet" href="cdn.jsdelivr.net" />
+  <style>
+    body, html { margin: 0; padding: 0; width: 100%; height: 100%; overflow: hidden; }
+    .swiper { width: 100%; height: 100vh; }
+    .swiper-slide img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover; /* Картинка заполнит область, не растягиваясь */
+    }
+    /* Цвет стрелок и точек под ваш вкус */
+    :root { --swiper-theme-color: #ffffff; }
+  </style>
+</head>
+<body>
 
+  <div class="swiper">
+    <div class="swiper-wrapper">
+      <!-- Добавляйте сколько угодно слайдов -->
+      <div class="swiper-slide"><img src=https://cdn.discordapp.com/attachments/1100831625803202644/1439113630577594530/IMG_20251115_124331_926.jpg?ex=695a98c2&is=69594742&hm=6cf859471190470cafaab14eaae741235e8574ec3f24ccc81d5ab95b57829616& alt="Slide 1"></div>
+      <div class="swiper-slide"><img src=https://cdn.discordapp.com/attachments/1100831625803202644/1456169536628986050/IMG_20260101_141726_355.jpg?ex=695aaecf&is=69595d4f&hm=daa5b757cc76d6560636e97deae858844d8dc2906d26113eb05f1fdc008cdfab& alt="Slide 2"></div>
+      <div class="swiper-slide"><img src="ССЫЛКА_НА_ФОТО_3" alt="Slide 3"></div>
+    </div>
+    
+    <!-- Кнопки навигации -->
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+    
+    <!-- Точки внизу -->
+    <div class="swiper-pagination"></div>
+  </div>
+
+  <!-- Подключаем скрипты Swiper -->
+  <script src="cdn.jsdelivr.net"></script>
+  <script>
+    const swiper = new Swiper('.swiper', {
+      loop: true,           // Зацикливание
+      grabCursor: true,      // Курсор-рука на десктопе
+      pagination: { el: '.swiper-pagination', clickable: true },
+      navigation: { nextEl: '.swiper-button-next', prevEl: '.swiper-button-prev' },
+      keyboard: { enabled: true }, // Управление стрелками клавиатуры
+    });
+  </script>
+</body>
+</html>
