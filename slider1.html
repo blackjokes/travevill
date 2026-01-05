@@ -64,7 +64,17 @@
 
     .swiper-button-next,
     .swiper-button-prev {
-      transform: scale(0.6);
+      z-index: 1000;
+      pointer-events: auto;
+      color: #fff;
+    }
+    
+    .swiper-wrapper {
+      z-index: 1;
+    }
+    
+    .swiper {
+      position: relative;
     }
   </style>
 </head>
