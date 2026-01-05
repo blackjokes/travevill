@@ -1,2 +1,1 @@
-# TraveVill-Slider-1
-Слайдеры для TraveVill | 1
+# TraveVill | GitHub репозиторий
