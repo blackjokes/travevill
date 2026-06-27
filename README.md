@@ -10,7 +10,7 @@
 ---
 
 Функционал слайдеров на teletype.in был реализован с помощью iframe-вставки следующего кода:
-`<iframe
+> `<iframe
 src="https://blackjokes.github.io/travevill/travevill-1/slider.html"
   width="100%"
   height=480"
