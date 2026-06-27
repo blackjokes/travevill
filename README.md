@@ -30,4 +30,4 @@
 
 ---
 
-Присоединяйтесь к нам в [Discord](https://discord.gg/UaJRDHTnXW).
+Присоединяйтесь к нам в [Discord](https://discord.gg/UaJRDHTnXW)!
