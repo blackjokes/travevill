@@ -16,7 +16,7 @@
 Реализованный здесь способ использует GitHub-pages, так что ссылка имеет вид:
 `https://blackjokes.github.io/travevill/*`
 Где * — либо нужная вам html-страница, либо дальнейший путь к ней ведущий.<br>
-Пример здесь: https://blackjokes.github.io/travevill/travevill-1/slider.html
+> **Пример здесь:** https://blackjokes.github.io/travevill/travevill-1/slider.html
 
 ### Шаг 2:
 Функционал слайдеров для teletype.in был реализован мной с помощью iframe-вставки следующего кода на конечную страницу:<br>
@@ -30,7 +30,7 @@
 Далее, на целевой странице остаётся выбрать соотношение сторон 16:9 для вставленной на предыдущем этапе страницы, и Вы получаете следующее:
 
 <img width="948" height="627" alt="image" src="https://github.com/user-attachments/assets/ba3a2245-b9b7-4e27-8393-866e6f582ce7" />
-
+> **Пример здесь:** https://teletype.in/@travevill/saves
 ---
 
 ## 📂 Структура этого репозитория
