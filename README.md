@@ -1,5 +1,5 @@
 <h1>
-  <img src="travevill-1/images/ваша_иконка.jpg" width="32" style="vertical-align: middle; margin-right: 8px;">
+  <img src="https://github.com/user-attachments/assets/996b9415-f58c-492d-8f60-119a3abb96f7" width="32" style="vertical-align: middle; margin-right: 8px;">
   TraveVill | Официальный GitHub репозиторий
 </h1>
 
