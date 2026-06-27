@@ -30,6 +30,7 @@
 Далее, на целевой странице остаётся выбрать соотношение сторон 16:9 для вставленной на предыдущем этапе страницы, и Вы получаете следующее:
 
 <img width="948" height="627" alt="image" src="https://github.com/user-attachments/assets/ba3a2245-b9b7-4e27-8393-866e6f582ce7" />
+
 > **Пример здесь:** https://teletype.in/@travevill/saves
 ---
 
