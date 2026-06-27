@@ -28,3 +28,6 @@
 *   `travevill-3/` — Скриншоты и слайдер TraveVill 3.
 *   `travevill-ofs-3/` — Скриншоты и слайдер «Межсезонье: Моды».
 
+---
+
+Присоединяйтесь к нам! [![Discord](https://shields.io)](https://discord.gg/UaJRDHTnXW)
