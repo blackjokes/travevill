@@ -9,6 +9,20 @@
 
 ---
 
+Функционал слайдеров на teletype.in был реализован с помощью iframe-вставки следующего кода:
+`<iframe
+src="https://blackjokes.github.io/travevill/travevill-1/slider.html"
+  width="100%"
+  height=480"
+  style="border:none;"
+></iframe>`
+
+На самом ресурсе остаётся выбрать соотношение сторон 16:9 для вставленной страницы и получается следующее:
+
+<img width="962" height="638" alt="image" src="https://github.com/user-attachments/assets/b44429ce-40ff-4e76-9b0a-6ea8aa188c4c" />
+
+---
+
 ## 📂 Структура этого репозитория
 Для поддержания идеального порядка файлы распределены по следующим директориям:
 *   `travevill-1/` — Скриншоты и слайдер «Первого Сезона».
