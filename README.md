@@ -1,5 +1,5 @@
 
-# <img width="50" height="50" alt="TraveVill_4_avatar2" src="https://github.com/user-attachments/assets/996b9415-f58c-492d-8f60-119a3abb96f7" /> TraveVill | Офицальный GitHub репозиторий
+# <img width="25" height="25" alt="TraveVill_4_avatar2" src="https://github.com/user-attachments/assets/996b9415-f58c-492d-8f60-119a3abb96f7" /> TraveVill | Офицальный GitHub репозиторий
 
 
 Добро пожаловать в репозиторий проекта **TraveVill**! Это SMP Minecraft-сервер, созданный для любителей классического ванильного выживания в дружной атмосфере.
